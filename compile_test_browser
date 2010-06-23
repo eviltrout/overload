@@ -1,0 +1,11 @@
+#!/bin/sh
+
+mxmlc -target-player=10.0 Overload.as
+
+if [ "0" == "$?" ]
+then
+  echo "Compiled successfully"
+  open browser_test.html
+else
+  echo Compile Failed: $?
+fi
