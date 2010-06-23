@@ -1,4 +1,4 @@
-== Information Overload
+#### Information Overload
 
 Information Overload is a game I built in ActionScript within a few days work. The game is on Kongregate if you want to try it out:
 
@@ -12,7 +12,7 @@ Information Overload is a retro-style shooter based on a simple concept: informa
 
 The information in the game is gathered from dozens live sources, including Twitter, Google News and many of the world’s top newspapers and blogs.
 
-== About this Source
+#### About this Source
 
 This source code is the game exactly as it is on Kongregate with the exception of the music which I licensed from iStockPhoto. The art was contracted for the project by the excellent Camdoggery who has also helped with my other site, Forumwarz.com.
 
@@ -22,7 +22,7 @@ It also uses the excellent Tweener (http://code.google.com/p/tweener/) library f
 
 The rest of the code was built by yours truly. Feel free to learn from it or reuse to your pleasure.
 
-== How to compile
+#### How to compile
 
 You need a copy of the Flex SDK to compile the source. It's fortunately available for free and you don't need an expensive copy of Flash or anything.
 Just download it from Adobe and then type:
@@ -33,7 +33,7 @@ to compile on the command line. It'll spit out a SWF file you can open in your b
 
 I have included two trivial sh scripts I used for compiling that you should be able to use out of the box if you're on a Mac. ./compile_test will compile and open the swf in the flash standalone player if you have it installed. ./compile_test_browser will open it in your browser of choice.
 
-== Contact Me
+#### Contact Me
 
 I'm eviltrout on github. You can find my personal site at: http://eviltrout.com 
 
