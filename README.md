@@ -37,4 +37,6 @@ I have included two trivial sh scripts I used for compiling that you should be a
 
 I'm eviltrout on github. You can find my personal site at [eviltrout.com](http://eviltrout.com)
 
+You might also want to try out my web based MMO, [Forumwarz](http://www.forumwarz.com)
+
 I hope you enjoy the source and find it useful in some respect!
